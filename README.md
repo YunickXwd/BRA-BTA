@@ -10,7 +10,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/UNIKBAAP/TTVIEWS
+git clone --depth 1 https://github.com/Unik-Xwd/TTVIEWS
 cd TTVIEWS
 python3 run.py
 ```
