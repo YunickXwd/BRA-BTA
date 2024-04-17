@@ -1,4 +1,4 @@
-TT FREE VIEWS 💗
+FREE TIKTOK VIEWS 
 
 ITS TAKE 1 OR 2 MINS
 # Commands for runing my toolkit
@@ -10,7 +10,7 @@ pkg install python -y && pkg install git -y
 ```
 #### Run
 ```
-git clone --depth 1 https://github.com/Unik-Xwd/TTVIEWS
+git clone --depth 1 https://github.com/ReshamXwd/TTVIEWS
 cd TTVIEWS
 python3 run.py
 ```
